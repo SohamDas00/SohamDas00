@@ -15,7 +15,7 @@
 - 🎓 3rd year student at Dr. Sudhir Chandra Sur Institute of Technology
 - 🧑‍💻 Ex-Frontend Developer Intern at Zeptik
 - 💻 Open source contributor to GSSoC, Hacktoberfest
-- 🔭 I’m currently learning Full Stack Development (MERN)
+- 🔭 I’m currently learning everything
 - ⚙️ Skills: HTML, CSS, JavaScript, React, Tailwind, Node.js, Express, MongoDB
 - 👨‍💻 Currently building: College Routine Optimizer | ZepMedi | World Atlas
 - 📫 Reach me at: jisusoham04@gmail.com
@@ -40,6 +40,18 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=jisusoham04&show_icons=true&include_all_commits=true&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jisusoham04&theme=dracula)
+<!-- GitHub Stats -->
+![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamDas00&show_icons=true&include_all_commits=true&theme=dracula)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamDas00&theme=dracula)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDas00&layout=compact&theme=dracula)
+
+<!-- GitHub Trophies -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SohamDas00&theme=dracula)](https://github.com/SohamDas00)
+
+<!-- Contribution Graph via GitHub Activity Graph -->
+[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamDas00&theme=dracula)](https://github.com/SohamDas00)
+
