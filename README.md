@@ -45,6 +45,17 @@
 
 ---
 
+### 🎖️ Badge Board (Hacktoberfest):
+[![An image of @sohamdas00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamdas00)](https://holopin.io/@sohamdas00)
+
+---
+
+### 🏅 GSSoC 2024 Extended Achievements
+
+<p align="center">
+  <img src="https://github.com/SohamDas00/SohamDas00/blob/main/GSSoC24_Stats.png?raw=true" width="100%" alt="GSSoC 2024 Extended Badge Banner" />
+</p>
+
 ---
 
 ### 🏆 My GitHub Stats:
