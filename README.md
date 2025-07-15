@@ -2,10 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=jisusoham04&label=Profile%20views&color=0e75b6&style=flat" alt="Soham Das" />
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@your_twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/your_twitter)](https://twitter.com/your_twitter)
-[![Linkedin Badge](https://img.shields.io/badge/-SohamDas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdasdev/)](https://www.linkedin.com/in/sohamdasdev/)
+[![Twitter Badge](https://img.shields.io/badge/-@SOHAMDAS449409-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/SOHAMDAS449409)](https://x.com/SOHAMDAS449409)
+[![Linkedin Badge](https://img.shields.io/badge/-SohamDas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdas00/)](https://www.linkedin.com/in/sohamdas00/)
 [![Gmail Badge](https://img.shields.io/badge/-jisusoham04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisusoham04@gmail.com)](mailto:jisusoham04@gmail.com)
-[![Instagram](https://img.shields.io/badge/-your_instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram/)
+[![Instagram](https://img.shields.io/badge/-_soham__das_-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_soham__das_/?hl=en)
+
+---
 
 ### 👋 Hi there, I'm Soham Das!
 
@@ -16,9 +18,8 @@
 - ⚙️ Skills: HTML, CSS, JavaScript, React, Tailwind, Node.js, Express, MongoDB
 - 👨‍💻 Currently building: College Routine Optimizer | ZepMedi | World Atlas
 - 📫 Reach me at: jisusoham04@gmail.com
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
-- 📝 Resume: [View Resume](https://your-resume-link.com)
-- 🎮 Fun fact: I enjoy playing FPS games
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1B4ubspM_GcNKfLr39Telso8ook3EkCVV/view?usp=drivesdk)
+- 🎮 Fun fact: I love to play FIFA
 
 ---
 
