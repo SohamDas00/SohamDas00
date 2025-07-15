@@ -48,7 +48,7 @@
 ---
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamDas00&theme=dracula&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-phi-two.vercel.app?user=SohamDas00&theme=dark)](https://git.io/streak-stats)
 
 
 ---
