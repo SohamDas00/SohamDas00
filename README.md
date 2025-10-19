@@ -16,11 +16,7 @@
 - 🧑‍💻 Ex-Frontend Developer Intern at Zeptik  
 - 💻 Open source contributor to GSSoC, Hacktoberfest  
 - 🔭 I’m currently learning everything  
-- 👯 I’m looking for remote opportunities  
-- ⚡ Front-end development using **HTML, CSS, JavaScript, Tailwind, React**  
-- ⚡ Back-end development using **Node.js, Express, MongoDB**  
-- 💻 Operating Systems: **Windows**, **Linux**  
-- 🔧 Version Control: **Git**, **GitHub**   
+- 👯 I’m looking for remote opportunities   
 - 📫 Reach me at: jisusoham04@gmail.com  
 - 📝 Resume: [View Resume](https://drive.google.com/file/d/1B4ubspM_GcNKfLr39Telso8ook3EkCVV/view?usp=drivesdk)  
 - 😄 Pronouns: he/his
