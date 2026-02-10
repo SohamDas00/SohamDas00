@@ -18,7 +18,8 @@
 - 🔭 I’m currently learning everything  
 - 👯 I’m looking for remote opportunities   
 - 📫 Reach me at: jisusoham04@gmail.com  
-- 📝 Resume: [View Resume]([https://drive.google.com/file/d/1B4ubspM_GcNKfLr39Telso8ook3EkCVV/view?usp=drivesdk](https://drive.google.com/file/d/1vRhYm-8L8HrSbFbPUOQJd149zB458I6n/view?usp=sharing))  
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1vRhYm-8L8HrSbFbPUOQJd149zB458I6n/view?usp=sharing)
+  
 - 😄 Pronouns: he/his
 - 🎮 Fun fact: I love to play FIFA  
 
